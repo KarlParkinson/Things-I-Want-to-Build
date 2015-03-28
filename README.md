@@ -6,3 +6,4 @@
 * automated sports betting system
 * online book publishing platform
 * functional compiler in Haskell
+* unbeatable tic-tac-toe AI
