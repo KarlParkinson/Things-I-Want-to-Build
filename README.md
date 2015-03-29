@@ -7,3 +7,4 @@
 * online book publishing platform
 * functional compiler in Haskell
 * unbeatable tic-tac-toe AI
+* RESTful API of some sort.
