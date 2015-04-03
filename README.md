@@ -10,3 +10,4 @@
 * RESTful API of some sort
 * resume generator from github profile
 * OSS contributions. preferably something small and in ruby or python. maybe classtime
+* simple chat application using Haskell and websockets.
