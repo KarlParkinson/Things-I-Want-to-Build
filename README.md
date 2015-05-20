@@ -12,3 +12,4 @@
 * OSS contributions. preferably something small and in ruby or python. maybe classtime
 * simple chat application using Haskell and websockets
 * "personal cloud" using old computers/phones I've accumulated
+* Simple, in memory job queue using callback dsl
